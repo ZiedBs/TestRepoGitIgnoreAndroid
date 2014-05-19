@@ -1,0 +1,4 @@
+TestRepoGitIgnoreAndroid
+========================
+
+testgitignore
